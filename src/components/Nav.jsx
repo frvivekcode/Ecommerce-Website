@@ -13,8 +13,8 @@ const Nav = () => {
       </div>
       <div className="loginShoping flex gap-3">
         <a href="#">Login</a>
-        <i class="ri-search-line"></i>
-        <i class="ri-shopping-bag-fill"></i>
+        <i className="ri-search-line"></i>
+        <i className="ri-shopping-bag-fill"></i>
       </div>
     </div>
   )
