@@ -33,7 +33,7 @@ const Section3 = () => {
           </div>
         </div>
       </div>
-      <div className="red-box w-[95%] mx-auto mt-50 h-[350px] rounded-2xl bg-[#f80a0ae2]">
+      <div className="red-box w-[95%] mx-auto mt-51 h-[350px] rounded-2xl bg-[#f80a0ae2]">
 
       </div>
     </div>
